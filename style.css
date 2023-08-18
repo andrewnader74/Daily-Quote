@@ -1,0 +1,18 @@
+.data h1
+{
+    font-size: 80px;
+    font-family: Impact;
+}
+
+
+.data button
+{
+    width: 250px !important;
+    height: 80px; 
+    background-color: blue;
+}
+
+.data button:hover
+{
+    background-color: green;
+}
